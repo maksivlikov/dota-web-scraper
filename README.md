@@ -1,1 +1,1 @@
-﻿# dota-web-scraper 
+﻿# dota-web-scraper
